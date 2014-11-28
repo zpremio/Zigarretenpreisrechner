@@ -65,7 +65,7 @@ namespace Zigarretenpreisrechner
                 zwischenalter = alter - anfangsalter;
 
                 KostenBisher = zwischenalter * PreisProJahr;
-                Kosten65 = alter + 65 * PreisProJahr + KostenBisher;
+                Kosten65 = alter - 65 * PreisProJahr + KostenBisher;
                 KostenGesamt = KostenBisher + Kosten65;
 
 
