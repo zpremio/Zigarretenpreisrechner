@@ -1,0 +1,6 @@
+C:\Users\Sven\Documents\GitHub\Zigarettenpreisrechner\Zigarretenpreisrechner\Zigarretenpreisrechner\bin\Debug\Zigarretenpreisrechner.exe.config
+C:\Users\Sven\Documents\GitHub\Zigarettenpreisrechner\Zigarretenpreisrechner\Zigarretenpreisrechner\bin\Debug\Zigarretenpreisrechner.exe
+C:\Users\Sven\Documents\GitHub\Zigarettenpreisrechner\Zigarretenpreisrechner\Zigarretenpreisrechner\bin\Debug\Zigarretenpreisrechner.pdb
+C:\Users\Sven\Documents\GitHub\Zigarettenpreisrechner\Zigarretenpreisrechner\Zigarretenpreisrechner\obj\Debug\Zigarretenpreisrechner.exe
+C:\Users\Sven\Documents\GitHub\Zigarettenpreisrechner\Zigarretenpreisrechner\Zigarretenpreisrechner\obj\Debug\Zigarretenpreisrechner.pdb
+C:\Users\Sven\Documents\GitHub\Zigarettenpreisrechner\Zigarretenpreisrechner\Zigarretenpreisrechner\obj\Debug\Zigarretenpreisrechner.csprojResolveAssemblyReference.cache
